@@ -27,7 +27,7 @@ module.exports = {
       exclude: /node_modules/,
       query: {
         presets: ['es2015', 'react'],
-        plugins: ['transform-onject-rest-spread']
+        plugins: ['transform-object-rest-spread']
       }
     }, {
       test: /\.css$/,
